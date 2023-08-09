@@ -1,2 +1,2 @@
-# ML_Prac
-Machine Learning Practice
+# ML Practice Hub
+Machine Learning Practice from basics
